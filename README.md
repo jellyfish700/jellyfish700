@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm)](https://github.com/evirunurm/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">[![My Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfish700&layout=compact" />
