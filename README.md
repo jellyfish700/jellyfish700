@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jellyfish700&color=white)](https://github.com/evirunurm/github-stats)<img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png">[![My Languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=jellyfish700&color=white)](https://github.com/evirunurm/github-stats)
+
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jellyfish700)](https://github.com/ryo-ma/github-profile-trophy)
 
