@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfish700&layout=compact&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellyfish700&layout=compact&theme=dark" />
 </a>
 
 <!--
